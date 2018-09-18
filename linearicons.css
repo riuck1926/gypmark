@@ -2,10 +2,10 @@
 	font-family: 'Linearicons-Free';
 	src:url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.eot?w118d');
 	src:url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.eot?#iefixw118d') format('embedded-opentype'),
-		url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.woff2?w118d') format('woff2'),
-		url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.woff?w118d') format('woff'),
-		url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.ttf?w118d') format('truetype'),
-		url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.svg?w118d#Linearicons-Free') format('svg');
+	src:url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.woff2?w118d') format('woff2'),
+	src:url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.woff?w118d') format('woff'),
+	src:url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.ttf?w118d') format('truetype'),
+	src:url('https://cdn.rawgit.com/riuck1926/gypmark/ed85ca2d/Linearicons-Free.svg?w118d#Linearicons-Free') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
